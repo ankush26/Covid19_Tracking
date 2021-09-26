@@ -6,6 +6,7 @@ This project is intend to do following things :
 - Get the current number of confirmed, active and deceased cases of every state.
 - Plot Graphs to visualize data.
 - Plot SVG map that shows data of a particular region.
+- Get Latest Covid related news.
 
 ## Build With
 - [Django](https://www.djangoproject.com/)
