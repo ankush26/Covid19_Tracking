@@ -1,6 +1,7 @@
 # Covid19 Tracking
 
-A Web Application to track and visualize Covid19 data of India. The main aim of this project is:
+A Web Application to track and visualize Covid19 data of India. 
+This project is intend to do following things :
 
 - Get the current number of confirmed, active and deceased cases of every state.
 - Plot Graphs to visualize data.
@@ -30,3 +31,11 @@ Start the server
 
 ```bash
   python manage.py runserver
+```  
+ 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/ankush26/Covid19_Tracking/master/screenshort/Screenshot%20from%202021-09-26%2010-52-27.png)
+![App Screenshot](https://github.com/ankush26/Covid19_Tracking/blob/master/screenshort/Screenshot%20from%202021-09-26%2010-53-11.png?raw=true)
+![App Screenshot](https://github.com/ankush26/Covid19_Tracking/blob/master/screenshort/Screenshot%20from%202021-09-26%2010-53-24.png?raw=true)
+![App Screenshot](https://github.com/ankush26/Covid19_Tracking/blob/master/screenshort/Screenshot%20from%202021-09-26%2011-18-42.png?raw=true)
